@@ -14,3 +14,10 @@ When a primitive mesh is selected, the UI display options specific for the selec
 * For the *IcoSphere*: Diameter (range 0.1-2.0) and subdivisions (range 1-10)
 
 On clicking the Geometries the selected mesh get bounce.
+
+
+
+
+
+
+![Demo](screenshots/Picking-BablongJS-Demo.gif)
